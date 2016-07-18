@@ -13,6 +13,15 @@ Le code se trouve dans le répertoire "basic" de ce repo (Nous n'avons pas inclu
 ## pimp
 L'application shiny *pimpée* est disponible ici : TODO
 
+
+## Bouton switch
+Pour utiliser bouton on/off vu dans la version pimpée, vous pouvez regarder :
+
+```{r}
+shiny::runGitHub(repo = "pimpMyShiny", username = "pvictor", subdir = "bootstrap_switch")
+```
+
+
 <br>
 <br>
 Pimpez-bien !
