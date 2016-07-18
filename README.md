@@ -1,4 +1,4 @@
-# pimpMyShiny
+# Pimp My Shiny !
 
 Bienvenue sur le repo Pimp My Shiny !
 
