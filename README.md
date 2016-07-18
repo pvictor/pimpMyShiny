@@ -31,7 +31,7 @@ Fanny et Victor
 
 Pour nous joindre :
 
-* sur twitter : @meyer_fanny et @victpir
+* sur twitter : [@meyer_fanny](https://twitter.com/meyer_fanny) et [@victpir](https://twitter.com/Victpir)
 * par mail : fannymeyer2@gmail.com et perrier.victor@gmail.com
 
 
