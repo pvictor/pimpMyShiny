@@ -14,6 +14,9 @@ Le code se trouve dans le répertoire "basic" de ce repo (Nous n'avons pas inclu
 L'application shiny *pimpée* est disponible ici : TODO
 
 
+
+<br>
+
 ### Bouton switch
 Pour utiliser bouton on/off vu dans la version pimpée, vous pouvez regarder :
 
