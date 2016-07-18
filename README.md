@@ -7,7 +7,7 @@ Ici vous retrouverez les slides de notre présentation au meetup R Addicts du 12
 ## basic
 L'application shiny *basic* est disponible ici :  https://dreamrs-vic.shinyapps.io/basicShiny/
 
-Le code se trouve dans le répertoire "basic" de ce repo.
+Le code se trouve dans le répertoire "basic" de ce repo (Nous n'avons pas inclus les données, vous pouvez nous contacter pour les obtenir).
 
 
 ## pimp
