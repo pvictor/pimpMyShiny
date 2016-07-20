@@ -15,7 +15,9 @@ L'application shiny *pimpée* est disponible ici : TODO
 
 
 
-<br>
+<br><br>
+
+## Autres trucs
 
 ### Bouton switch
 Pour utiliser bouton on/off vu dans la version pimpée, vous pouvez regarder :
@@ -24,6 +26,14 @@ Pour utiliser bouton on/off vu dans la version pimpée, vous pouvez regarder :
 shiny::runGitHub(repo = "pimpMyShiny", username = "pvictor", subdir = "bootstrap_switch")
 ```
 
+### API Meetup
+Le script que nous avons utilisé pour récupérer la liste des R Addicts est disponible ici : `R_scripts/get_raddicts.R`
+
+
+### Cartes
+Pour la carte du monde, nous avons utilisé l'exemple de Kristoffer Magnusson, disponible [ici](http://rpsychologist.com/working-with-shapefiles-projections-and-world-maps-in-ggplot) 
+
+Pour la carte de France, nous avons utilisé les contours des départements OpenStreetMap disponibles sur [data.gouv](https://www.data.gouv.fr/fr/datasets/contours-des-departements-francais-issus-d-openstreetmap/) 
 
 <br>
 <br>
