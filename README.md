@@ -26,6 +26,13 @@ Pour utiliser bouton on/off vu dans la version pimpée, vous pouvez regarder :
 shiny::runGitHub(repo = "pimpMyShiny", username = "pvictor", subdir = "bootstrap_switch")
 ```
 
+### Bootstrap modal 
+
+```{r}
+shiny::runGitHub(repo = "pimpMyShiny", username = "pvictor", subdir = "bs_modal")
+```
+
+
 ### API Meetup
 Le script que nous avons utilisé pour récupérer la liste des R Addicts est disponible ici : `R_scripts/get_raddicts.R`
 
