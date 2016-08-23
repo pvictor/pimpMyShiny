@@ -11,7 +11,7 @@ Le code se trouve dans le répertoire "basic" de ce repo (Nous n'avons pas inclu
 
 
 ## pimp
-L'application shiny *pimpée* est disponible ici : TODO
+L'application shiny *pimpée* est disponible ici : https://dreamrs-fan.shinyapps.io/pimpMyShiny/
 
 
 
